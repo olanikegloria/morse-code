@@ -51,15 +51,6 @@
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
-<!-- LIVE DEMO
-
-## 🚀 Live Demo <a name="live-demo"></a>
-
-- [Live Demo Link](https://stock-wise.vercel.app/)
-
-<p align="right">(<a href="#readme-top">back to top</a>)</p> -->
-
-<!-- GETTING STARTED -->
 
 ## 💻 Getting Started <a name="getting-started"></a>
 
@@ -109,6 +100,13 @@ it will install the required gemfile for running the project
 
 - GitHub: [@olanikegloria](https://github.com/olanikegloria)
 - LinkedIn: [olanikegloria](https://linkedin.com/in/olani)
+
+## 👥 Author <a name="author"></a>
+
+👤 Sazzad
+
+- GitHub: [@githubhandle](https://github.com/SAZZAD1Q2/Vet-Clinic.git)
+- LinkedIn: [LinkedIn](https://www.linkedin.com/in/sazzad3y/)
 
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
